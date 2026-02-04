@@ -1,26 +1,32 @@
-<h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
+# Olá, eu sou o Leonardo Ximenes! 👋
 
+## 🎓 Acadêmico de Inteligência Artificial
 
+Atualmente, estou cursando o **2º período de Inteligência Artificial** na **Faculdade Senai Fatesg (FATESG)**. Estou no início da minha jornada acadêmica, focado em construir uma base sólida em tecnologia e ciência de dados.
 
-## 🙋‍♂️ Sobre mim
-
-- 🧠 Cursando Inteligência Artificialna Faculdade Senai Fatesg (FATESG)  
-- 🔍 Buscando novas oportunidades
+- 🧠 **Momento Atual:** Estudando os fundamentos da Inteligência Artificial e lógica de programação.
+- 🚀 **Foco:** Evolução constante e aplicação prática dos conhecimentos acadêmicos.
+- 🔍 **Interesse:** Networking, colaboração em projetos de estudo e aprendizado prático.
 
 ---
 
+## 🎯 Objetivo Profissional
 
-## 📬 Entre em Contato
+Busco minha primeira oportunidade de **estágio ou posição de entrada** na área de tecnologia e dados. Meu foco é aplicar os fundamentos aprendidos na FATESG, contribuir com o crescimento da equipe e acelerar meu desenvolvimento técnico em um ambiente profissional.
 
-<p>
-  <a href="linkedin.com/in/leonardo-ximenes-5bbb73380"/></a>
- 
+---
+
+## 📬 Vamos nos conectar?
+
+Se você busca um estudante dedicado e entusiasta de IA para o seu time, ou quer apenas trocar ideias sobre a área, sinta-se à vontade para entrar em contato:
+
+**LinkedIn:** [linkedin.com/in/leonardo-ximenes-5bbb73380](https://linkedin.com/in/leonardo-ximenes-5bbb73380)
+
 ---
 <p align="center">
   <strong>✨ Obrigado por visitar meu perfil!</strong><br/>
-  Veja meus projetos e fique à vontade para entrar em contato!
-
-
+  Estudando hoje para construir as soluções de amanhã.
+</p>
 <!--
 **Leonardo-Ximenes/Leonardo-Ximenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
