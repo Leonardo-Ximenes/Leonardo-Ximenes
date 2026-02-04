@@ -19,7 +19,7 @@
 <p align="center">
   <strong>✨ Obrigado por visitar meu perfil!</strong><br/>
   Veja meus projetos e fique à vontade para entrar em contato!
-</p>## Hi there 👋
+
 
 <!--
 **Leonardo-Ximenes/Leonardo-Ximenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
